@@ -86,12 +86,8 @@ h1,h2,h3,h4,h5,h6,p,ul{
 
 .list-text.current{
     position: relative;
-    color: #2e2f42;
-}
-
-.current{
     color: #404bbf;
-    transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+        transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .current::after{
