@@ -312,7 +312,10 @@ h1,h2,h3,h4,h5,h6,p,ul{
 
 .name-container{
     padding-top: 32px;
-    padding-bottom: 32px;
+}
+
+.container-icons{
+    margin-bottom: 32px;
 }
 
 .list-icons-team{
